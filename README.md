@@ -1,19 +1,16 @@
 ### Welcome to my Github
 
-<!--
-**williambennett321/williambennett321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Proficiencies
+
 [![William GitHub stats](https://github-readme-stats.vercel.app/api?username=williambennett321)](https://github.com/williambennett321/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williambennett321)](https://github.com/williambennett321/github-readme-stats)
+
+## About Me:
+
+I am a software developer from North Florida with aspirations to further expand my knowledge of the coding world.
+I enjoy exploring and learning new concepts, and being able to apply them in a complex way. I am deeply passionate about working
+in a group to brainstorm with different view points and creating projects.
