@@ -16,7 +16,8 @@ I enjoy exploring and learning new concepts, and being able to apply them in a c
 in a group to brainstorm with different view points and creating projects. </p> 
 
 <h2 align="center"> Proficiencies: <h2>
-  
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</div>
   
   
