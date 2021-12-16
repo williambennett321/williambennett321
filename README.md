@@ -1,17 +1,14 @@
 <h1 align="center"> <b>Welcome to my Github </b> </h1>
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=williambennett321&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambennett321&layout=compact&theme=react" />
-</div>
+
   
 
 
 
 <h2 align="center"> GitHub Stats </h2>
-
-[![William GitHub stats](https://github-readme-stats.vercel.app/api?username=williambennett321)](https://github.com/williambennett321/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williambennett321)](https://github.com/williambennett321/github-readme-stats)
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=williambennett321&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambennett321&layout=compact&theme=react" />
+</div>
 
 <h2 align="center"> About Me: </h2>
 
